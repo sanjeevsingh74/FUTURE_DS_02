@@ -45,7 +45,7 @@ Most tickets are raised during weekday business hours, with spikes between 10 AM
 
 This indicates optimal staffing should be concentrated during these hours.
 
-## 📌 Recommendations to Maximize Service & Improve Customer Satisfactio
+## 📌 Recommendations to Maximize Service & Improve Customer Satisfaction
 🔧 **Improve Ticket Resolution Tracking**
 
 Enforce mandatory tracking of Resolution Time and ensure all tickets are resolved or escalated within SLA.
