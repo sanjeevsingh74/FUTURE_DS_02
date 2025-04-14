@@ -56,6 +56,16 @@ Implement an automated ticket acknowledgment system for instant responses.
 
 Allocate dedicated staff or AI chatbots to triage tickets based on severity.
 
+## Close the Feedback Loop
+
+Mandate closure comments and ensure all tickets are marked resolved with accurate timestamps.
+
+Deploy real-time satisfaction surveys post-resolution to capture feedback.
+
+## Strengthen Knowledge Management
+
+Develop a centralized self-service knowledge base for recurring technical and billing concerns.
+
 **📊 Monitor & Optimize Staff Workload**
 
 Align support team shifts with peak ticket hours (10 AM – 4 PM).
@@ -82,7 +92,7 @@ Use machine learning to predict customer churn based on satisfaction and delay m
 
 ## 📈 Business Impact
 
-By implementing these recommendations, the organization can achieve:
+**By implementing these recommendations, the organization can achieve:**
 
 Up to **30%** faster resolution times
 
