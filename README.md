@@ -1,5 +1,5 @@
 # Customer Support Ticket Analysis
-**Executive Summary** – Customer Support Ticket Analysis
+## Executive Summary:
 This Customer Support Ticket Analysis evaluates service trends, customer demographics, issue types, and performance metrics such as First Response Time and Resolution Time to identify areas for improvement and enhance customer satisfaction.
 
 ## ✅ Key Insights:
