@@ -84,9 +84,9 @@ Use machine learning to predict customer churn based on satisfaction and delay m
 
 By implementing these recommendations, the organization can achieve:
 
-Up to 30% faster resolution times
+Up to **30%** faster resolution times
 
-Improved first response efficiency by 25–40%
+Improved first response efficiency by **25–40%**
 
 Enhanced customer satisfaction and loyalty
 
