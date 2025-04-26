@@ -14,7 +14,7 @@ A significant volume of support tickets are related to technical issues and bill
 
 Minimal volume for general inquiries suggests that basic information might be accessible, yet technical challenges remain unresolved without assistance.
 
-
+![high](https://github.com/user-attachments/assets/f159ee7b-c131-4c65-904b-3022c15dcec5)
 
 **Response & Resolution Performance:**
 
@@ -31,6 +31,8 @@ Lower satisfaction scores were commonly linked to prolonged ticket handling or i
 Satisfaction ratings range from 1 to 5, but many entries are missing ratings.
 
 Lower ratings (1–2) correlate with longer resolution times or tickets unresolved.
+
+
 
 **Customer Demographics:**
 
@@ -66,6 +68,8 @@ Deploy real-time satisfaction surveys post-resolution to capture feedback.
 
 ## Strengthen Knowledge Management
 
+![yr20](https://github.com/user-attachments/assets/56a314ae-59d4-4d16-ade2-d6d2232bc63e)
+
 Develop a centralized self-service knowledge base for recurring technical and billing concerns.
 
 **📊 Monitor & Optimize Staff Workload**
@@ -79,6 +83,7 @@ Use dashboards to track performance KPIs in real-time.
 Prioritize high-value or repeat customers (by age group, previous satisfaction, or product type).
 
 Send follow-up satisfaction surveys automatically for feedback.
+![wknd](https://github.com/user-attachments/assets/e60c4b7b-ead2-44ac-965e-61a8f9cb75e9)
 
 **📚 Develop Knowledge Base**
 
@@ -97,6 +102,8 @@ Use machine learning to predict customer churn based on satisfaction and delay m
 **By implementing these recommendations, the organization can achieve:**
 
 Up to **30%** faster resolution times
+![wkdy](https://github.com/user-attachments/assets/4292f189-1a24-4f37-92d6-b5153f7bf730)
+
 
 Improved first response efficiency by **25–40%**
 
