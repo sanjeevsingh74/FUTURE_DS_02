@@ -4,7 +4,7 @@ The primary objective of this analysis was to assess the performance of the cust
 
 ## Executive Summary:
 Customer Support Ticket Analysis evaluates service trends, customer demographics, issue types, and performance metrics such as First Response Time and Resolution Time to identify areas for improvement and enhance customer satisfaction.
-
+https://github.com/sanjeevsingh74/FUTURE_DS_02/blob/main/cstmr.dash.png
 ## ✅ Key Insights:
 
 **Ticket Type Distribution**
