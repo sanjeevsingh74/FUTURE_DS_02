@@ -45,6 +45,7 @@ The customer base is diverse, showing usage across various tech and software pro
 Most tickets are raised during weekday business hours, with spikes between 10 AM to 4 PM.
 
 This indicates optimal staffing should be concentrated during these hours.
+![wkdy](https://github.com/user-attachments/assets/91ea28f7-2f3a-47dd-b888-5a4fa76a1097)
 
 ## 📌 Recommendations to Maximize Service & Improve Customer Satisfaction
 🔧 **Improve Ticket Resolution Tracking**
