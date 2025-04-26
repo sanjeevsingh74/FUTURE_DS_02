@@ -1,3 +1,5 @@
+
+
 # Customer Support Ticket Analysis
 ## 📍 Project Objective
 The primary objective of this analysis was to assess the performance of the customer support team by evaluating service request patterns, resolution efficiency, and customer satisfaction, with the goal of identifying key improvement areas to enhance overall service quality and customer experience.
